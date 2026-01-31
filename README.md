@@ -19,3 +19,5 @@ via lazy
     end,
 },
 ```
+
+<img width="1920" height="1080" alt="2026-01-31_00-15" src="https://github.com/user-attachments/assets/899c84a2-58aa-411b-8f18-d928a14491bb" />
